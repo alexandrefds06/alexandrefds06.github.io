@@ -129,4 +129,18 @@ footer {
   font-weight: bold;
   text-decoration: none;
 }
+.botao {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 12px 20px;
+  background: #00c853;
+  color: #000;
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.botao:hover {
+  background: #00e676;
+}
 
